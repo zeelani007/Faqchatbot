@@ -1,0 +1,803 @@
+[{
+    "id": 1,
+    "text": "नमस्ते! आज मैं आपकी कैसे सहायता कर सकता हूँ?",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 4,
+    "option1": "",
+    "option1_nextMessageId": "",
+    "option2": "",
+    "option2_nextMessageId": "",
+    "option3": "",
+    "option3_nextMessageId": "",
+    "option4": "",
+    "option4_nextMessageId": "",
+    "option5": "",
+    "option5_nextMessageId": "",
+    "option6": "",
+    "option6_nextMessageId": ""
+},
+{
+    "id": 2,
+    "text": "",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 3,
+    "option1": "",
+    "option1_nextMessageId": "",
+    "option2": "",
+    "option2_nextMessageId": "",
+    "option3": "",
+    "option3_nextMessageId": "",
+    "option4": "",
+    "option4_nextMessageId": "",
+    "option5": "",
+    "option5_nextMessageId": "",
+    "option6": "",
+    "option6_nextMessageId": ""
+},
+{
+    "id": 3,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "हाँ",
+    "option1_nextMessageId": 4,
+    "option2": "नहीं",
+    "option2_nextMessageId": 30,
+    "option3": "",
+    "option3_nextMessageId": "",
+    "option4": "",
+    "option4_nextMessageId": "",
+    "option5": "",
+    "option5_nextMessageId": "",
+    "option6": "",
+    "option6_nextMessageId": ""
+},
+{
+    "id": 4,
+    "text": "कृपया निम्नलिखित विकल्प चुनें",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": " किसान",
+    "option1_nextMessageId": 5,
+    "option2": " प्रोजेक्ट डेवलपर",
+    "option2_nextMessageId": 8,
+    "option3": "राज्य नोडल एजेंसी",
+    "option3_nextMessageId": 81,
+    "option4": "हितधारक श्रेणी",
+    "option4_nextMessageId": 10
+},
+{
+    "id": 5,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "बायोगैस क्या है?",
+    "option1_nextMessageId": 51,
+    "option2": "संपीड़ित बायोगैस क्या है?",
+    "option2_nextMessageId": 52,
+    "option3": "बायोमास गोली/ईट क्या है?",
+    "option3_nextMessageId": 53,
+    "option4": "गैर-खोई सहउत्पादन क्या है?",
+    "option4_nextMessageId": 54,
+    "option5": "अपशिष्ट से ऊर्जा में क्या शामिल है?",
+    "option5_nextMessageId": 55,
+    "option6": "बायोगैस संयंत्र स्थापित करने से किसान को क्या लाभ है?",
+    "option6_nextMessageId": 56,
+    "option7": "क्या आप बायोगैस प्लांट लगाने पर मिलने वाली सब्सिडी के बारे में जानना चाहते हैं?",
+    "option7_nextMessageId": 57,
+    "option8": "सब्सिडी प्राप्त करने के लिए पात्रता मानदंड क्या है?",
+    "option8_nextMessageId": 58,
+    "option9": "क्या आप सब्सिडी प्राप्त करने की प्रक्रिया के बारे में जानना चाहते हैं?",
+    "option9_nextMessageId": 59
+
+
+
+
+},
+{
+    "id": 57,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "YES",
+    "option1_nextMessageId": 101,
+    "option2": "NO",
+    "option2_nextMessageId": 102
+
+},
+{
+    "id": 101,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "क. छोटे बायोगैस संयंत्रों के लिए (1-25 घन मीटर/दिन संयंत्र क्षमता): रु. 9800/- से रु. घन मीटर में पौधे के आकार के आधार पर 70,400/- प्रति पौधा;<br> ख. बिजली उत्पादन और थर्मल अनुप्रयोग के लिए (25 - 2500 घन मीटर/दिन संयंत्र क्षमता): रु. 35,000/- से रु. बिजली उत्पादन के लिए 45,000/- प्रति किलोवाट और रु. 17,500/- से रु. थर्मल अनुप्रयोगों के लिए 22,500/- प्रति किलोवाट के बराबर",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+},
+{
+    "id": 102,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "यह ऑक्सीजन की अनुपस्थिति में गाय के गोबर, मुर्गी के गोबर आदि जैसे कार्बनिक पदार्थों के जैविक अपघटन की एक प्रक्रिया है। इसे अवायवीय पाचन भी कहा जाता है।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+},
+{
+    "id": 51,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "यह ऑक्सीजन की अनुपस्थिति में गाय के गोबर, मुर्गी के गोबर आदि जैसे कार्बनिक पदार्थों के जैविक अपघटन की एक प्रक्रिया है। इसे अवायवीय पाचन भी कहा जाता है।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+},
+{
+    "id": 52,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "संपीड़ित बायोगैस (सीबीजी), जिसे बायोमेथेन या नवीकरणीय प्राकृतिक गैस (आरएनजी) के रूप में भी जाना जाता है, एक प्रकार की बायोगैस है जिसे ईंधन के रूप में उपयोग करने के लिए शुद्ध और संपीड़ित किया गया है। बायोगैस का उत्पादन कृषि अपशिष्ट, खाद्य अपशिष्ट, सीवेज, या समर्पित ऊर्जा फसलों जैसे कार्बनिक पदार्थों के अवायवीय पाचन या किण्वन के माध्यम से किया जाता है।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+}, {
+    "id": 53,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "बायोमास छर्रों और ब्रिकेट्स बायोमास के सघन रूप हैं जिनका उपयोग आमतौर पर ठोस जैव ईंधन के रूप में किया जाता है। इनका उत्पादन बायोमास सामग्री, जैसे कृषि अवशेष, लकड़ी अपशिष्ट, ऊर्जा फसलें और जैविक अपशिष्ट को संपीड़ित या संकुचित करके किया जाता है।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+}, {
+    "id": 54,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "गैर-खोई सह-उत्पादन से तात्पर्य खोई के अलावा अन्य बायोमास ईंधन का उपयोग करके बिजली और गर्मी के उत्पादन से है। खोई गन्ने से रस निकालने के बाद बचा हुआ एक रेशेदार अवशेष है, और यह चीनी उद्योग में सह-उत्पादन प्रणालियों में आमतौर पर इस्तेमाल किया जाने वाला बायोमास ईंधन है।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+}, {
+    "id": 55,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "अपशिष्ट-से-ऊर्जा (डब्ल्यूटीई) विभिन्न प्रकार के अपशिष्ट पदार्थों का उपचार और उपयोग करके, आमतौर पर बिजली और गर्मी के रूप में ऊर्जा उत्पन्न करने की प्रक्रिया को संदर्भित करता है। इसमें कचरे को उपयोगी ऊर्जा संसाधन में परिवर्तित करना, कचरे की मात्रा को कम करना और अन्यथा नष्ट हो जाने वाली ऊर्जा को पुनर्प्राप्त करना शामिल है। अपशिष्ट-से-ऊर्जा प्रक्रियाओं में आमतौर पर उपयोग की जाने वाली अपशिष्ट सामग्रियों में शामिल हैं:",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+}, {
+    "id": 56,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "a.भारत सरकार के नवीन और नवीकरणीय ऊर्जा मंत्रालय ने निम्नलिखित उद्देश्यों के साथ बायोगैस कार्यक्रम शुरू किया: i.स्वच्छ खाना पकाने के ईंधन, प्रकाश व्यवस्था, किसानों की थर्मल और छोटी बिजली की जरूरतों को पूरा करने के लिए बायोगैस संयंत्रों की स्थापना जिसके परिणामस्वरूप जीएचजी में कमी आती है। , बेहतर स्वच्छता, महिला सशक्तिकरण और ग्रामीण रोजगार का सृजन। ii.जैविक समृद्ध जैव-खाद: बायोगैस संयंत्रों से पचा हुआ घोल, जो खाद का एक समृद्ध स्रोत है, किसानों को रासायनिक उर्वरकों के उपयोग को बढ़ाने/कम करने में लाभान्वित करेगा।",
+    "nextMessageId": 20,
+    "option1": "YES",
+    "option1_nextMessageId": 1010,
+    "option2": "NO",
+    "option2_nextMessageId": 1020
+
+},
+
+ {
+    "id": 58,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "a.लाभार्थी के पास छोटे बायोगैस संयंत्र (1 से 25 m3) स्थापित करने के लिए लगभग 50-60 वर्ग मीटर क्षेत्र की अपनी भूमि/स्थान होना चाहिए <br> b.गाय के गोबर/फीडस्टॉक की उपलब्धता और नियमित जल आपूर्ति <br> c.वित्तीय क्षमता बायोगैस के लिए अपने हिस्से का पैसा निवेश करने के लिए",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+},
+{
+    "id": 102,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The biogas user should ensure that the plant is filled before he/she starts using the gas and Bio-slurry should overflow from the expansion chamber through the slurry canal The very first gas produced should be vented unused from the water drain valve When the biogas plant is in use, feeding should be done on daily basis The biogas user should always endeavor to keep the area around the biogas system clean.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+},
+
+{
+    "id": 59,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "अधिक जानने के लिए लिंक पर क्लिक करें:<br> https://biogas.mnre.gov.in/downloads ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+},
+{
+    "id": 60,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Flow back of fire might be possible. In order to stop accidental flow back of fire from burner to gas holder, a flame arrester must be incorporated in the pipe line as a safety device.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  }, {
+    "id": 61,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Fire arrester is placed just after the main gas valve near the digester or just before the gas stove. It is safer to have one at both place.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 20,
+    "text": "क्या आप जारी रखना चाहते हैं?",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "हाँ",
+    "option1_nextMessageId": 4,
+    "option2": "नहीं",
+    "option2_nextMessageId": 30,
+    "option3": "",
+    "option3_nextMessageId": ""
+  },
+  {
+    "id": 7,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "What is the significance of Biomass Programme for farmers under National Bioenergy Programme?",
+    "option1_nextMessageId": 71,
+    "option2": "What kind of raw materials are supported under Biomass programme?",
+    "option2_nextMessageId": 72,
+    "option3": "What feedstock is excluded for availing CFA under Biomass programme?",
+    "option3_nextMessageId": 73,
+    "option4": "Where can a farmer submit the proposal for availing CFA under Biomass Programme?",
+    "option4_nextMessageId": 74
+
+  },
+  {
+    "id": 8,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "बायोगैस कार्यक्रम के अंतर्गत परियोजना डेवलपर्स के लिए अक्सर पूछे जाने वाले प्रश्न",
+    "option1_nextMessageId": 91,
+    "option2": "बायोमास कार्यक्रम के अंतर्गत परियोजना डेवलपर्स के लिए अक्सर पूछे जाने वाले प्रश्न",
+    "option2_nextMessageId": 92,
+    "option3": "अपशिष्ट से ऊर्जा कार्यक्रम के अंतर्गत परियोजना डेवलपर्स के लिए अक्सर पूछे जाने वाले प्रश्न",
+    "option3_nextMessageId": 93
+  },
+  {
+    "id": 91,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "राष्ट्रीय जैव ऊर्जा कार्यक्रम के तहत परियोजना डेवलपर्स के लिए बायोगैस योजना का क्या महत्व है?",
+    "option1_nextMessageId": 911,
+    "option2": "बायोगैस कार्यक्रम के तहत सीएफए का लाभ उठाने का प्रस्ताव कहां प्रस्तुत किया जा सकता है?",
+    "option2_nextMessageId": 912,
+    "option3": "बायोगैस कार्यक्रम के तहत परियोजना अनुमोदन तंत्र क्या है?",
+    "option3_nextMessageId": 913,
+    "option4": "बायोगैस उत्पादन की प्रक्रिया शर्तें क्या हैं?",
+    "option4_nextMessageId": 914,
+    "option5": "बायोगैस का उपयोग करके बिजली का उत्पादन कैसे किया जा सकता है?",
+    "option5_nextMessageId": 915,
+    "option6": "बायोगैस संयंत्र के प्रमुख घटक क्या हैं?",
+    "option6_nextMessageId": 916,
+    "option7": "क्या बायोगैस संयंत्र की स्थापना के लिए सर्वोत्तम स्थल के चयन के लिए कोई मानदंड हैं?",
+    "option7_nextMessageId": 917,
+    "option8": "बायोगैस संयंत्र के निर्माण के लिए आवश्यक सामग्री क्या हैं?",
+    "option8_nextMessageId": 918,
+    "option9": "बायोगैस वितरण पाइपलाइन में घटक क्या हैं?",
+    "option9_nextMessageId": 919,
+    "option10": "पारंपरिक और नए प्री-फैब्रिकेटेड प्रकार के बायोगैस संयंत्रों से बायोगैस उत्पादन समान है। किसे प्राथमिकता दी जानी चाहिए और क्यों?",
+    "option10_nextMessageId": 920,
+    "option11": "क्या पहाड़ी क्षेत्र में बायोगैस संयंत्र का निर्माण संभव है?",
+    "option11_nextMessageId": 921,
+    "option12": "सर्दी के मौसम में तापमान में गिरावट के साथ बायोगैस का उत्पादन भी कम हो जाता है। ऐसी स्थिति में एक डेवलपर इष्टतम उत्पादन के लिए क्या करेगा?",
+    "option12_nextMessageId": 922,
+    "option13": "बायोगैस संयंत्र पर सीएफए का दावा करने की प्रक्रिया क्या है?",
+    "option13_nextMessageId": 923,
+    "option14": "बायोगैस वितरण लाइन में पाइप का उचित आकार क्या होगा?",
+    "option14_nextMessageId": 924,
+    "option15": "क्या बायोगैस संयंत्र की नींव रखने में अर्थिंग की स्थिति की कोई भूमिका है?",
+    "option15_nextMessageId": 925
+  },
+  {
+    "id": 911,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "परियोजना डेवलपर्स के संबंध में बायोगैस कार्यक्रम का महत्व नीचे बताया गया है: <br>“स्वच्छ खाना पकाने के ईंधन, प्रकाश व्यवस्था, उपयोगकर्ताओं की थर्मल और छोटी बिजली की जरूरतों को पूरा करने के लिए बायोगैस संयंत्रों की स्थापना जिसके परिणामस्वरूप जीएचजी में कमी, स्वच्छता में सुधार, महिला सशक्तिकरण होता है। और ग्रामीण रोजगार का सृजन”।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 912,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "i. छोटे बायोगैस संयंत्रों के लिए (1 एम3 से 25 एम3): व्यक्तिगत लाभार्थी एमएनआरई बायोगैस वेब पोर्टल/एंड्रॉइड मोबाइल ऐप के माध्यम से बायोगैस संयंत्रों की स्थापना के लिए आवश्यक विवरण के साथ अपना आवेदन जमा कर सकते हैं। पीआईए लक्ष्य आवंटन के बाद ही ऐसे आवेदनों पर कार्रवाई करेगा और फिर लाभार्थी स्थल पर बायोगैस संयंत्र की स्थापना के लिए कार्रवाई करेगा। <br> ii. मध्यम आकार के बायोगैस संयंत्रों (25 एम3 से 2500 एम3 से ऊपर) के लिए: ऐसी परियोजनाओं के प्रस्ताव पीआईए द्वारा एमएनआरई बायोगैस वेब-पोर्टल के माध्यम से पूरे वर्ष एमएनआरई को प्रस्तुत किए जाएंगे।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 913,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "एमएनआरई नामित पीआईए को बायोगैस संयंत्र (आकार 1 एम3 से 25 एम3 तक) की स्थापना के लिए वार्षिक भौतिक लक्ष्य आवंटित करेगा और प्रत्येक बायोगैस संयंत्र (25 एम3 से 2500 एम3 बायोगैस से ऊपर) प्रस्ताव की जांच एमएनआरई द्वारा की जाएगी। मामला-दर-मामला आधार पर और प्रशासनिक मंजूरी/सैद्धांतिक अनुमोदन जारी किया जाएगा।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 914,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "बायोगैस का उत्पादन बैक्टीरिया की उपस्थिति में बायोमास के अवायवीय अपघटन (ऑक्सीजन की अनुपस्थिति) द्वारा प्राप्त किया जाता है। बायोमास का जीवाणु अपघटन तीन चरणों में होता है, अर्थात् हाइड्रोलिसिस चरण, एसिड चरण और मीथेन चरण।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },{
+    "id": 915,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "बिजली उत्पादन के लिए बायोगैस संचालित जेनसेट उपलब्ध हैं। एक घन मीटर बायोगैस 4-5 किलोवाट बिजली का उत्पादन कर सकती है जो जेनसेट की दक्षता और कच्चे बायोगैस में औसत मीथेन सामग्री पर निर्भर करती है।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },{
+    "id": 916,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "एक बायोगैस संयंत्र में निम्नलिखित भाग होते हैं <br> • <strong>मिक्सिंग टैंक और इनलेट: </strong> डाइजेस्टर में फ़ीड स्टॉक की तैयारी और परिचय। <br><strong>• डाइजेस्टर:</strong> कच्चे माल का प्रसंस्करण <br> <strong>•गैस धारक या गैस भंडारण गुंबद:</strong> सिस्टम से बायोगैस और उप-उत्पादों का भंडारण और निष्कासन </ br>•आउटलेट और कम्पोस्ट पिट <br>•गैस मुख्य आउटलेट वाल्व, पाइपलाइन, गैस स्टोव।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },{
+    "id": 917,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "हां, बायोगैस संयंत्र के लिए आदर्श स्थान का चयन करते समय निम्नलिखित मानदंडों पर विचार किया जाना चाहिए, लेकिन उन्हें नीचे उल्लिखित तक सीमित नहीं किया जाना चाहिए:- <br> •मवेशी के गोबर को ले जाने के लिए दूरी कम करने के लिए यह मवेशी शेड के नजदीक होना चाहिए। <br>•पचे हुए घोल के भंडारण या खाद गड्ढे के निर्माण के लिए पर्याप्त जगह होनी चाहिए।<br>•पानी को प्रदूषित होने से बचाने के लिए यह किसी भी पीने के पानी के कुएं से 10-15 मीटर की दूरी पर होना चाहिए।<br> •क्षेत्र को ऐसा होना चाहिए पेड़ की जड़ों से मुक्त रहें जो डाइजेस्टर में रेंगने और नुकसान पहुंचाने की संभावना रखते हैं।<br> •इसे डाइजेस्टर को गर्म रखने के लिए दिन के अधिकांश समय सूर्य विकिरण प्राप्त करने के लिए खोला जाना चाहिए।<br> •यह होना चाहिए ऊँचे क्षेत्र पर ताकि सामान्य बारिश के दौरान पौधा पानी में न डूबे।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },{
+    "id": 918,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "बायोगैस संयंत्र के निर्माण के लिए ईंट, सीमेंट, रेत, कंक्रीट की आवश्यकता होती है। आवश्यकतानुसार इनलेट और आउटलेट के लिए पीवीसी या एस्बेस्टस पाइप का उपयोग किया जाता है। केवीआईसी बायोगैस संयंत्र के लिए, गैस धारक के निर्माण के लिए अतिरिक्त जीआई शीट की आवश्यकता होती है। हाल ही में, एचडीपीआई सामग्री आधारित रेडीमेड बायोगैस उत्पाद बाजार में उपलब्ध हैं। इनका उपयोग जैव मिथेनेशन के लिए किया जा सकता है।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },{
+    "id": 919,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "गैस वितरण पाइपलाइन में गैस वेंट पाइप, गेट वाल्व, होज़ पाइप, नमी जाल, पाइप, मोड़, जोड़, स्टॉप कॉक, प्रेशर ट्यूब क्लिप आदि शामिल हैं।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },{
+    "id": 920,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "ईंट चिनाई से निर्मित बायोगैस संयंत्रों का जीवन लगभग 20 वर्ष है जबकि पूर्वनिर्मित बायोगैस संयंत्रों का जीवन केवल 10 वर्ष है। लेकिन पूर्वनिर्मित बायोगैस संयंत्रों को आवश्यकता के अनुसार स्थानांतरित किया जा सकता है। उपयुक्त स्थिति के अनुसार लाभार्थी अपना चयन कर सकता है। ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },{
+    "id": 921,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "हाँ। हालाँकि, पहाड़ी क्षेत्र में, दो प्रमुख मुद्दे हैं: •रात के दौरान डाइजेस्टर से तापमान में कमी जिससे गैस उत्पादन की दर कम हो जाती है। •पत्थरों के कारण गहरे निर्माण के लिए गड्ढे खोदना। ऐसी स्थिति में, केवीआईसी बायोगैस संयंत्र (फ्लोटिंग डोम प्रकार) इष्टतम उत्पादन के लिए उपयुक्त नहीं हैं। फिक्स्ड डोम बायोगैस संयंत्र अच्छी तरह से काम कर सकते हैं। दीनबंधु बायोगैस संयंत्र (फिक्स्ड डोम प्रकार) कम उत्खनन कार्य के कारण आर्थिक रूप से बेहतर होगा। ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },{
+    "id": 922,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "गोबर को पतला करने के लिए सोलर वॉटर हीटर के गर्म पानी का उपयोग किया जा सकता है। •पतला गोबर का घोल मिश्रण टैंक में तैयार किया जा सकता है और गर्म होने के लिए पूरे दिन रखा जा सकता है। फिर डाइजेस्टर को शाम को लोड किया जा सकता है। • नाइट्रोजन के उच्च प्रतिशत वाले कार्बनिक पदार्थ जैसे मूत्र, मिट्टी आदि का मिश्रण। • गैस होल्डर को दिन में प्लास्टिक शीट से ढक देना चाहिए ताकि डाइजेस्टर का तापमान बढ़ाया जा सके। रात के समय, इसे बोरियों से ढक दिया जाएगा जिससे इन्सुलेशन बना रहे और गर्मी के नुकसान को कम किया जा सके। •डाइजेस्टर में बैक्टीरिया की संख्या बढ़ाने के लिए डाइजेस्टर को ताजा घोल के साथ पुनर्चक्रित किया जाना चाहिए।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },{
+    "id": 923,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "• सबसे पहले, डेवलपर बायोगैस संयंत्र के निर्माण के लिए संबंधित राज्य नोडल एजेंसी को सूचित करता है। एसएनए के तकनीकी कर्मचारी एक बार बायोगैस संयंत्र निर्माण स्थल का सत्यापन कर लेते हैं, फिर वह बायोगैस का निर्माण कर सकता है और सब्सिडी के लिए दावा कर सकता है। लाभार्थी पुरुष या महिला, व्यवसायी या कोई भी हो सकता है। सर्विसमैन, निजी कर्मचारी या सरकारी। कर्मचारी या छात्र. •यह सुनिश्चित किया जाना चाहिए कि उपयोगकर्ता के पास एक बैंक खाता और एक पहचान प्रमाण हो। •यदि उपयोगकर्ता एससी और एसटी वर्ग से संबंधित है, तो अतिरिक्त अनुदान का लाभ उठाने के लिए उसके पास जाति प्रमाण पत्र होना चाहिए।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },{
+    "id": 924,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "पाइप का आकार पौधे और रसोई के बीच की दूरी पर निर्भर करता है। दूरी जितनी अधिक होगी, पाइप का व्यास उतना ही बड़ा होना चाहिए। लगभग 8 सेमी पानी के स्तंभ के दबाव के साथ, एक घन मीटर बायोगैस को एक घंटे में 12 मिमी पाइप में लगभग 20 मीटर से अधिक, 19 मिमी पाइप में लगभग 150 मीटर से अधिक और 25 मिमी पाइप में 500 मीटर से अधिक तक ले जाया जा सकता ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },{
+    "id": 925,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "•हाँ, यदि पृथ्वी रेतीली है, तो कठोर ईंट गिट्टी सीमेंट, रेत और ईंट गिट्टी (1:4:8) या सीमेंट, रेत और बजरी मोर्टार (1:2:4) का उपयोग करके बिना प्रबलित किए सामान्य प्रक्रिया द्वारा बिछाई जाती है। यदि जब धरती गीली होती है तो बरसात के मौसम में सामान्य नींव से पानी रिसने की संभावना रहती है। इसलिए, इन परिस्थितियों में, सूखी ईंट गिट्टी (सीमेंट के बिना) की 75 मिमी मोटी परत फैलाई जाती है और अच्छी तरह से संकुचित होती है। इसके ऊपर 1:4:8 के अनुपात में सीमेंट, रेत और ईंट गिट्टी की 150 मिमी मोटी परत होती है। रखी गई है. इस परत में प्रत्येक 10.5 सेमी की दूरी पर बंधे 15 मिमी व्यास (बाध्यकारी तार से बंधे) की स्टील की छड़ों का एक जाल भी सुदृढीकरण के रूप में उपयोग किया जाता है।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 92,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "बायोमास कार्यक्रम के अंतर्गत कितनी केंद्रीय वित्तीय सहायता (सीएफए) उपलब्ध है?",
+    "option1_nextMessageId": 931,
+    "option2": "बायोमास कार्यक्रम के तहत वित्तीय सहायता प्राप्त करने के लिए कंपनियों के लिए पात्रता मानदंड क्या हैं?",
+    "option2_nextMessageId": 932,
+    "option3": "बायोमास कार्यक्रम के तहत सीएफए का लाभ उठाने का प्रस्ताव कहां प्रस्तुत किया जा सकता है?",
+    "option3_nextMessageId": 933,
+    "option4": "ब्रिकेट/पेलेट विनिर्माण संयंत्रों और बायोमास (गैर-खोई) सह-उत्पादन परियोजनाओं के लिए प्रस्ताव प्रस्तुत करते समय किस चरण-I दस्तावेज़ की आवश्यकता होती है?",
+    "option4_nextMessageId": 934,
+    "option5": "बायोमास कार्यक्रम के तहत सीएफए का लाभ उठाने के लिए आवेदन पत्र जमा करने की अंतिम तिथि क्या है?",
+    "option5_nextMessageId": 935,
+    "option6": "सीएफए का लाभ उठाने के लिए ब्रिकेट/पेलेट विनिर्माण संयंत्रों और बायोमास (गैर-खोई) सह-उत्पादन परियोजनाओं को चालू करने की समयसीमा क्या है?",
+    "option6_nextMessageId": 936,
+    "option7": "क्या स्व-वित्त पोषित परियोजनाएं बायोमास कार्यक्रम के तहत वित्तीय सहायता प्राप्त करने के लिए पात्र हैं?",
+    "option8_nextMessageId": 937,
+    "option9": "क्या क्षमता वृद्धि परियोजनाएं बायोमास कार्यक्रम के तहत वित्तीय सहायता प्राप्त करने के लिए पात्र हैं?",
+    "option9_nextMessageId": 938,
+    "option10": "सीएफए के अनुदान के लिए किस प्रकार के प्रस्तावों के अस्वीकृत होने की संभावना है?",
+    "option10_nextMessageId": 939,
+    "option11": "बायोमास परियोजना डेवलपर के लिए सीएफए की पूर्ण रिलीज की शर्तें क्या हैं?",
+    "option11_nextMessageId": 940,
+    "option12": "यदि क्षमता उपयोग कारक, सीयूएफ <70% है, तो बायोमास परियोजना डेवलपर्स को सीएफए क्या प्रदान किया जाएगा?",
+    "option12_nextMessageId": 941,
+    "option13": "यदि प्लांट लोड फैक्टर, पीएलएफ <80% है तो बायोमास परियोजना डेवलपर्स को सीएफए क्या प्रदान किया जाएगा?",
+    "option13_nextMessageId": 942,
+    "option14": "स्व-वित्तपोषित परियोजनाओं के लिए सीएफए का वितरण कैसे किया जाता है?",
+    "option14_nextMessageId": 943,
+    "option15": "एफआई/बैंक वित्तपोषित परियोजनाओं के लिए सीएफए कैसे जारी किया जाता है?",
+    "option15_nextMessageId": 944
+  },
+  {
+    "id": 931,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "1) ब्रिकेट/पेलेट विनिर्माण संयंत्र - रु. 9 लाख प्रति एमटीपीएच (मीट्रिक टन/घंटा) विनिर्माण क्षमता (अधिकतम सीएफए 45 लाख रुपये प्रति संयंत्र) <br>2) बायोमास (गैर-खोई) सह-उत्पादन परियोजनाएं - रु. 40 लाख/मेगावाट (स्थापित क्षमता पर) (प्रति परियोजना अधिकतम सीएफए 5 करोड़ रुपये)।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 932,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "किसी कंपनी को बायोमास कार्यक्रम के तहत वित्तीय सहायता प्राप्त करने के लिए पात्र होने के लिए, उसे कंपनी अधिनियम के तहत पंजीकृत होना चाहिए, व्यवसायों के अलावा, कार्यक्रम साझेदारी फर्म, स्वामित्व फर्म, सहकारी समितियां, सार्वजनिक क्षेत्र की कंपनियां, सरकारी स्वामित्व वाली फर्म इसके तहत वित्तीय सहायता प्राप्त करने के लिए पात्र हैं।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 933,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "सीएफए का लाभ उठाने का प्रस्ताव बायोऊर्जा पोर्टल (लिंक: https://biourja.mnre.gov.in/step-to-avail-cfa) के माध्यम से प्रस्तुत किया जाएगा।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 934,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "प्रस्ताव के साथ प्रस्तुत किए जाने वाले चरण-1 दस्तावेज़ बायोमास कार्यक्रम के कार्यान्वयन के लिए दिशानिर्देशों के अनुलग्नक-1 में सूचीबद्ध हैं (लिंक: https://mnre.gov.in/Bio%20Energy/policy-and-guidelines)",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 935,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "आवेदन जमा करने की अंतिम तिथि संयंत्र के चालू होने से पहले या 31.12.2025, जो भी पहले हो, है।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 936,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "ब्रिकेट/पेलेट विनिर्माण संयंत्रों को सैद्धांतिक अनुमोदन की तारीख से 12 महीने के भीतर और बायोमास (गैर-खोई) सह-उत्पादन संयंत्रों को 24 महीने के भीतर चालू किया जाएगा।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 937,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "हां, स्व-वित्त पोषित परियोजनाएं बायोमास कार्यक्रम के तहत वित्तीय सहायता प्राप्त करने के लिए पात्र हैं",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 938,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "हां, क्षमता वृद्धि परियोजनाएं, जो नई मशीनरी स्थापित करती हैं। ब्रिकेट/पेलेट बनाने वाली मशीनरी, बॉयलर, टरबाइन, सीएफए अनुदान के लिए योजना के तहत पात्र हैं।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 939,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "किसी भी रूप में अधूरे प्रस्तावों और अपेक्षित अनुमोदन/दस्तावेजों के बिना सीएफए अनुदान के लिए विचार नहीं किया जाएगा। ऐसे प्रस्तावों की अस्वीकृति की सूचना परियोजना डेवलपर्स को बायोऊर्जा पोर्टल में प्रस्ताव जमा करने के 60 दिनों के भीतर दी जाएगी। हालाँकि, सभी कमियों को दूर करते हुए नए प्रस्ताव संयंत्र के चालू होने से पहले या 31.12.2025, जो भी पहले हो, फिर से प्रस्तुत किए जा सकते हैं।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 940,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "बायोमास परियोजनाओं के लिए सीएफए की पूर्ण रिलीज के लिए निम्नलिखित शर्तों को पूरा किया जाना चाहिए।<br> ए) लगातार तीन दिनों की अवधि में रेटेड क्षमता के 80% के औसत पर संयंत्र का संचालन (प्रति दिन औसतन 16 घंटे लेते हुए) मानक परिचालन घंटे), और <br> बी) लगातार तीन महीनों की अवधि में रेटेड क्षमता के 70% के औसत पर संयंत्र का संचालन मापा गया (मानक परिचालन घंटों के रूप में प्रति दिन औसतन 16 घंटे लेते हुए)।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 941,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "यदि संयंत्र सीयूएफ <70% पर काम कर रहा है, तो एक अवधि में औसत क्षमता उपयोग कारक के आधार पर वर्गीकृत संरचना का पालन किया जाएगा ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 942,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "यदि संयंत्र पीएलएफ <80% पर चल रहा है, तो तीन महीने की अवधि में औसत प्लांट लोड फैक्टर के आधार पर निम्नलिखित वर्गीकृत संरचना का उपयोग किया जाएगा।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 943,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "स्व-वित्तपोषित परियोजनाओं या उन परियोजनाओं के लिए जिनमें परियोजना के लिए डेवलपर द्वारा लिया गया ऋण पात्र सीएफए से कम है, सीएफए डेवलपर के खाते में जारी किया जाएगा।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 944,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "यदि डेवलपर द्वारा लिया गया ऋण पात्र सीएफए के बराबर या उससे अधिक है, तो ऋण को समतुल्य राशि से कम करने/कम करने के लिए ऋण देने वाली वित्तीय संस्थाओं/बैंकों में रखे गए डेवलपर के सावधि ऋण खाते में सीएफए जारी किया जाएगा। सीएफए जारी होने से पहले डेवलपर द्वारा ऋण की पूरी चुकौती के मामले में, सीएफए को एफआई/बैंक की सिफारिश पर डेवलपर के खाते में जारी किया जा सकता है, जो सावधि ऋण खाते के अलावा अन्य हो सकता है।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },
+  {
+    "id": 93,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "राष्ट्रीय जैव ऊर्जा कार्यक्रम के अंतर्गत किसानों के लिए बायोमास कार्यक्रम का क्या महत्व है?",
+    "option1_nextMessageId": 951,
+    "option2": "बायोमास कार्यक्रम के अंतर्गत किस प्रकार के कच्चे माल का समर्थन किया जाता है?",
+    "option2_nextMessageId": 952,
+    "option3": "बायोमास कार्यक्रम के तहत सीएफए का लाभ उठाने के लिए किस फीडस्टॉक को बाहर रखा गया है?",
+    "option3_nextMessageId": 953,
+    "option4": "बायोमास कार्यक्रम के तहत सीएफए का लाभ उठाने के लिए किसान प्रस्ताव कहां प्रस्तुत कर सकता है?",
+    "option4_nextMessageId": 954
+  },
+  {
+    "id": 951,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "अधिशेष कृषि अवशेषों का उपयोग करके पराली जलाने को कम करने से अधिशेष कृषि अवशेषों की बिक्री के माध्यम से किसानों को आय का अतिरिक्त स्रोत प्रदान किया जा सकता है और बेहतर पर्यावरणीय प्रथाओं को सक्षम किया जा सकता है और प्रदूषण को कम किया जा सकता है।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 952,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "कार्यक्रम बायोमास का उपयोग करने वाली परियोजनाओं के लिए सीएफए प्रदान करेगा, लेकिन इन तक सीमित नहीं है: <br> i) फसल अवशेष जैसे धान का भूसा, गेहूं का भूसा, सरसों के डंठल, कपास के डंठल आदि। <br> ii) ऊर्जा वृक्षारोपण के माध्यम से उत्पादित लकड़ी जैसे प्रोसोपिस जूलीफ्लोरा आदि। <br> iii) खरपतवार, ताड़ के पत्ते, नारियल के छिलके और भूसी आदि। <br> iv) औद्योगिक कार्यों में उत्पादित लकड़ी का कचरा जैसे चूरा, कटे हुए टुकड़े, छाल आदि। <br> v) कृषि आधारित औद्योगिक अवशेष जैसे चावल की भूसी, जौ की भूसी, आदि। <br> vi) वन अवशेष जैसे चीड़ की सुई, पेड़ों की शाखाएं और तने आदि। ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },{
+    "id": 953,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "बायोमास कार्यक्रम के तहत खोई, नगरपालिका ठोस अपशिष्ट, काली शराब, ढलान, प्रेस मिट्टी और अन्य संसाधित औद्योगिक कचरे का उपयोग करने वाली परियोजनाओं पर सीएफए के लिए विचार नहीं किया जाएगा।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+
+  },{
+    "id": 954,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "सीएफए का लाभ उठाने का प्रस्ताव बायोऊर्जा पोर्टल (लिंक: https://biourja.mnre.gov.in/step-to-avail-cfa) के माध्यम से प्रस्तुत किया जाएगा।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 81,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "बायोगैस कार्यक्रम के तहत केंद्रीय वित्तीय सहायता (सीएफए) प्राप्त करने के लिए कार्यान्वयन मॉडल क्या होना चाहिए?",
+    "option1_nextMessageId": 811,
+    "option2": "परियोजना कार्यान्वयन प्रगति की निगरानी के लिए कौन सा तंत्र अपनाया जाएगा?",
+    "option2_nextMessageId": 812,
+    "option3": "बायोमास परियोजनाओं के लिए नामित प्रदर्शन निरीक्षण एजेंसियां कौन हैं?",
+    "option3_nextMessageId": 813,
+    "option4": "कार्यान्वयन और निरीक्षण एजेंसियों को सेवा शुल्क के रूप में सीएफए कैसे वितरित किया जाता है?",
+    "option4_nextMessageId": 814
+  },
+  {
+    "id": 811,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "i.<strong>राज्य पीआईए के माध्यम से कार्यान्वयन: </strong>बायोगैस कार्यक्रम राज्य/केंद्र शासित प्रदेश I खादी ग्राम और उद्योग आयोग (केवीआईसी), मुंबई, राष्ट्रीय डेयरी विकास की नामित कार्यक्रम कार्यान्वयन एजेंसी (पीआईए) द्वारा कार्यान्वित किया जाएगा। बोर्ड (एनडीडीबी) आनंद / बायोगैस विकास और प्रशिक्षण केंद्र (बीडीटीसी)। <br> ii. <strong>वित्तीय संस्थानों के माध्यम से कार्यान्वयन: </strong>वित्तपोषित संगठन/संस्थान/बैंक/भारतीय नवीकरणीय ऊर्जा विकास एजेंसी (आईआरईडीए), नाबार्ड/आरबीआई द्वारा अनुमोदित वित्तीय संस्थान भी पीआईए के परामर्श से बायोगैस कार्यक्रम को लागू कर सकते हैं।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 812,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "कार्यान्वयन प्रगति की निगरानी के लिए SCADA प्रणाली/रिमोट मॉनिटरिंग प्रणाली का उपयोग किया जाएगा। इसे एमएनआरई या किसी अन्य नामित एजेंसी को संयंत्र उत्पादन डेटा साझा करने के लिए परियोजना स्थलों पर स्थापित किया जाएगा।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },{
+    "id": 813,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "बायोमास परियोजनाओं के लिए निरीक्षण एजेंसियों का उल्लेख नीचे किया गया है। <br> 1)ब्रिकेट/पेलेट विनिर्माण संयंत्रों के लिए: <br> a.नवीकरणीय ऊर्जा (एसएनए) के लिए संबंधित राज्य नोडल एजेंसियां; या <br> b.सरदार स्वर्ण सिंह राष्ट्रीय जैव-ऊर्जा संस्थान (SSS-NIBE) <br> 2) बायोमास (गैर-खोई) सह-उत्पादन परियोजनाओं के लिए: संबंधित राज्य नोडल एजेंसी (SNA) और सरदार स्वर्ण सिंह राष्ट्रीय जैव-ऊर्जा संस्थान (एसएसएस-एनआईबीई)।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },{
+    "id": 814,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "निरीक्षण एजेंसियों और कार्यान्वयन एजेंसी को सेवा शुल्क एजेंसी के बैंक खाते में जारी किया जाएगा।",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 9,
+    "text": "",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 10,
+    "text": "",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": "",
+    "option2": "",
+    "option2_nextMessageId": ""
+  },
+  {
+    "id": 11,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId":"",
+    "option1": "",
+    "option1_nextMessageId": 12,
+    "option2": "",
+    "option2_nextMessageId": 13,
+    "option3": "",
+    "option3_nextMessageId": 14,
+    "option4": "",
+    "option4_nextMessageId": "",
+    "option5": "",
+    "option5_nextMessageId": ""
+  },
+  {
+    "id": 14,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "",
+    "option1_nextMessageId": 15,
+    "option2": "",
+    "option2_nextMessageId": 15,
+    "option3": "",
+    "option3_nextMessageId": 15,
+    "option4": "",
+    "option4_nextMessageId": 15
+  },
+  {
+    "id": 15,
+    "text": "",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": "",
+    "option2": "",
+    "option2_nextMessageId": ""
+  },
+{
+    "id": 30,
+    "text": "हमसे मिलने के लिए आपका धन्यवाद.",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 0,
+    "option1": "",
+    "option1_nextMessageId": "",
+    "option2": "",
+    "option2_nextMessageId": ""
+}
+]

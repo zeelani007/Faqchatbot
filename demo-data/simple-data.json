@@ -1,0 +1,294 @@
+[{
+  "id": 1,
+  "text": "Hello! How can I assist you today?",
+  "messageType": "Text",
+  "imageUrl": "",
+  "nextMessageId": 3,
+  "option1": "",
+  "option1_nextMessageId": "",
+  "option2": "",
+  "option2_nextMessageId": "",
+  "option3": "",
+  "option3_nextMessageId": "",
+  "option4": "",
+  "option4_nextMessageId": "",
+  "option5": "",
+  "option5_nextMessageId": "",
+  "option6": "",
+  "option6_nextMessageId": ""
+},
+{
+  "id": 2,
+  "text": "",
+  "messageType": "Text",
+  "imageUrl": "",
+  "nextMessageId": 3,
+  "option1": "",
+  "option1_nextMessageId": "",
+  "option2": "",
+  "option2_nextMessageId": "",
+  "option3": "",
+  "option3_nextMessageId": "",
+  "option4": "",
+  "option4_nextMessageId": "",
+  "option5": "",
+  "option5_nextMessageId": "",
+  "option6": "",
+  "option6_nextMessageId": ""
+},
+{
+  "id": 3,
+  "text": "",
+  "messageType": "Question",
+  "imageUrl": "",
+  "nextMessageId": "",
+  "option1": "Yes",
+  "option1_nextMessageId": 4,
+  "option2": "No",
+  "option2_nextMessageId": 30,
+  "option3": "",
+  "option3_nextMessageId": "",
+  "option4": "",
+  "option4_nextMessageId": "",
+  "option5": "",
+  "option5_nextMessageId": "",
+  "option6": "",
+  "option6_nextMessageId": ""
+},
+{
+  "id": 4,
+  "text": "please choose the following options",
+  "messageType": "Question",
+  "imageUrl": "",
+  "nextMessageId": "",
+  "option1": "I am a farmer",
+  "option1_nextMessageId": 5,
+  "option2": "I am a project developer",
+  "option2_nextMessageId": 7,
+  "option3": "I Represent state nodal agency",
+  "option3_nextMessageId": 8,
+  "option4": "Other stakeholder category",
+  "option4_nextMessageId": 10
+},
+{
+  "id": 61,
+  "text": "FAQs for Farmers under Biomass Programme",
+  "messageType": "Question",
+  "imageUrl": "",
+  "nextMessageId": "",
+  "option1": "What is biogas?",
+  "option1_nextMessageId": 6,
+  "option2": "BIOMASS",
+  "option2_nextMessageId": 7
+},
+{
+  "id": 5,
+  "text": "",
+  "messageType": "Question",
+  "imageUrl": "",
+  "nextMessageId": "",
+  "option1": "What is biogas?",
+  "option1_nextMessageId": 51,
+  "option2": "What is compressed biogas?",
+  "option2_nextMessageId": 52,
+  "option3": "What is biomass pellet / briquette?",
+  "option3_nextMessageId": 53,
+  "option4": "What is non-bagasse cogeneration?",
+  "option4_nextMessageId": 54,
+  "option5": "What includes waste to energy?",
+  "option5_nextMessageId": 55,
+  "option6": "What is the benefit to a farmer for setting up a biogas plant?",
+  "option6_nextMessageId": 56,
+  "option7": "Do you want to know about the subsidy available for setting up the biogas plant?",
+  "option7_nextMessageId": 57,
+  "option8": "What is the eligibility criteria for availing subsidy?",
+  "option8_nextMessageId": 58,
+  "option9": "Do you want to know about the process of obtaining subsidy?",
+  "option9_nextMessageId": 59
+
+
+
+
+},
+{
+  "id": 57,
+  "text": "",
+  "messageType": "Question",
+  "imageUrl": "",
+  "nextMessageId": "",
+  "option1": "YES",
+  "option1_nextMessageId": 101,
+  "option2": "NO",
+  "option2_nextMessageId": 102
+
+},
+{
+  "id": 101,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "a.For small biogas plants (1-25 cubic meter/day plant capacity): Rs. 9800/- to Rs. 70,400/- per plant based on size of the plant in cubic meter;<br> b.For Power generation and thermal application (25 - 2500 cubic meter/day plant capacity): Rs. 35,000/- to Rs. 45,000/- per kilowatt for power generation and Rs. 17,500/- to Rs. 22,500/- per kilowatt equivalent for thermal applications ",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+
+},
+{
+  "id": 102,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "It is a process of biological decomposition of organic materials like cow dung, poultry droppings etc. in the absence of oxygen. It is also called as anaerobic digestion.",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+
+},
+{
+  "id": 51,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "It is a process of biological decomposition of organic materials like cow dung, poultry droppings etc. in the absence of oxygen. It is also called as anaerobic digestion.",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+
+},
+{
+  "id": 52,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "Compressed biogas (CBG), also known as biomethane or renewable natural gas (RNG), is a type of biogas that has been purified and compressed for use as a fuel. Biogas is produced through the anaerobic digestion or fermentation of organic matter such as agricultural waste, food waste, sewage, or dedicated energy crops.",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+
+}, {
+  "id": 53,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "Biomass pellets and briquettes are densified forms of biomass that are commonly used as solid biofuels. They are produced by compressing or compacting biomass materials, such as agricultural residues, wood waste, energy crops, and organic waste.",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+
+}, {
+  "id": 54,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "Non-bagasse cogeneration refers to the production of electricity and heat using biomass fuels other than bagasse. Bagasse is a fibrous residue left over after the extraction of juice from sugarcane, and it is a commonly used biomass fuel in cogeneration systems in the sugar industry.",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+}, {
+  "id": 55,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "Waste-to-energy (WtE) refers to the process of generating energy, typically in the form of electricity and heat, by treating and utilizing various types of waste materials. It involves converting waste into a useful energy resource, reducing the volume of waste and recovering energy that would otherwise be lost. The waste materials commonly used in waste-to-energy processes include:",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+
+}, {
+  "id": 56,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "a.The Ministry of New and Renewable Energy, Government of India, launched the Biogas programme with the following objectives: i.Setting up of biogas plants for clean cooking fuel, lighting, meeting thermal and small power needs of farmers which results in GHG reduction, improved sanitation, women empowerment and creation of rural employment. ii.Organic enriched Bio-manure: The digested slurry from biogas plants, a rich source of manure, shall benefit farmers in supplementing / reducing of use of chemical fertilizers.",
+  "nextMessageId": 20,
+  "option1": "YES",
+  "option1_nextMessageId": 1010,
+  "option2": "NO",
+  "option2_nextMessageId": 1020
+
+},
+
+{
+  "id": 58,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "a.Beneficiary should have their own land/ space about 50-60 Square meter area for installing small biogas plant ( 1 to 25 m3) <br> b.Availability of cow dung/ feedstock’s & regular water supply <br> c.Financial capacity for investing their own share money for biogas",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+
+},
+{
+  "id": 102,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "The biogas user should ensure that the plant is filled before he/she starts using the gas and Bio-slurry should overflow from the expansion chamber through the slurry canal The very first gas produced should be vented unused from the water drain valve When the biogas plant is in use, feeding should be done on daily basis The biogas user should always endeavor to keep the area around the biogas system clean.",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+
+},
+
+{
+  "id": 59,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "Click on the link to know more:<br> https://biogas.mnre.gov.in/downloads ",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+
+}, {
+  "id": 60,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "Flow back of fire might be possible. In order to stop accidental flow back of fire from burner to gas holder, a flame arrester must be incorporated in the pipe line as a safety device.",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+
+}, {
+  "id": 61,
+  "text": "FAQs for Project Developers under Biogas Programme",
+  "messageType": "",
+  "imageUrl": "Fire arrester is placed just after the main gas valve near the digester or just before the gas stove. It is safer to have one at both place.",
+  "nextMessageId": 20,
+  "option1": "",
+  "option1_nextMessageId": ""
+
+},
+{
+  "id": 20,
+  "text": "Do you wish to continue?",
+  "messageType": "Question",
+  "imageUrl": "",
+  "nextMessageId": "",
+  "option1": "Yes",
+  "option1_nextMessageId": 4,
+  "option2": "No",
+  "option2_nextMessageId": 30,
+  "option3": "",
+  "option3_nextMessageId": ""
+},
+{
+  "id": 7,
+  "text": "",
+  "messageType": "Question",
+  "imageUrl": "",
+  "nextMessageId": "",
+  "option1": "What is the significance of Biomass Programme for farmers under National Bioenergy Programme?",
+  "option1_nextMessageId": 71,
+  "option2": "What kind of raw materials are supported under Biomass programme?",
+  "option2_nextMessageId": 72,
+  "option3": "What feedstock is excluded for availing CFA under Biomass programme?",
+  "option3_nextMessageId": 73,
+  "option4": "Where can a farmer submit the proposal for availing CFA under Biomass Programme?",
+  "option4_nextMessageId": 74
+
+},
+
+
+{
+  "id": 30,
+  "text": "Thank your for visiting us.",
+  "messageType": "Text",
+  "imageUrl": "",
+  "nextMessageId": 0,
+  "option1": "",
+  "option1_nextMessageId": "",
+  "option2": "",
+  "option2_nextMessageId": ""
+}
+]

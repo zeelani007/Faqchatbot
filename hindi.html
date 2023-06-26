@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Webpage Title -->
+    <title>BIOGAS CHATBOT</title>
+
+    <!-- bot css -->
+    <link rel="stylesheet" href="./assets/css/chat.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./assets/css/typing.css">
+    <!-- endbot css -->
+
+    <!-- Styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="src/flow.css">
+    <link rel="stylesheet" href="src/flowchat.css">
+
+    <!-- Favicon  -->
+    <meta name="csrf-token" content="e2AitPF7hSJhISjIXuBahOW0VoxySlaO8W4ZvIxS">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://biogas.mnre.gov.in/public/assets/img/favicon.png" rel="icon">
+    <link href="https://biogas.mnre.gov.in/public/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="https://fonts.gstatic.com" rel="preconnect">
+    <link href="https://biogas.mnre.gov.in/public/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="https://biogas.mnre.gov.in/public/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+ <link href="https://biogas.mnre.gov.in/public/assets/vendor/simple-datatables/style.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+
+    <link href="https://biogas.mnre.gov.in/public/assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="https://biogas.mnre.gov.in/public/css/custom.css"> -->
+    <link rel="stylesheet" href="https://biogas.mnre.gov.in/public/css/select2.min.css">
+
+    <link rel="stylesheet" href="https://biogas.mnre.gov.in/public/css/style.css">
+    <!--Custom CSS or CSS Files for particular page-->
+</head>
+
+<body id="home-body" onload="">
+
+    <div>
+        <!--Application Header-->
+        <section class="bg-light">
+            <div class="container">
+                <div class="row top_header pt-2 pb-2">
+                    <div class="col-md-9 leftSide">
+                        <table>
+                            <tr>
+                                <td class="gov-india"><span class="responsive_go_hindi" lang="hi"><a
+                                    href="#" role="link">भारत सरकार</a></span><br><span class="li_eng responsive_go_eng"><a  href="#"
+                                    role="link">Government of India</a></span></td>
+                                <td class="ministry"><a href="https://mnre.gov.in/" target="_blank" alt="Ministry of New And Renewable Energy" title="Ministry of New And Renewable Energy"><span class="responsive_minis_hi"
+                                    lang="hi">नवीन और नवीकरणीय ऊर्जा मंत्रालय</span></a>
+                                    <br><a href="https://mnre.gov.in/" target="_blank" alt="Ministry of New And Renewable Energy" title="Ministry of New And Renewable Energy"><span
+                                    class="li_eng responsive_minis_eng">Ministry of New And Renewable Energy</span></a>
+                                </td>
+
+                                <td class="amrit_mohtsv"><img src="https://biogas.mnre.gov.in/public/assets/img/azdi_ka_mohtsv.png" style="height: 40px; padding-left: 20px;"></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="col-md-3 rightSide nav justify-content-end">
+                        <a class="hvr-hang" target="_blank" href="https://www.facebook.com/MNREMinistry/"><img src="https://biogas.mnre.gov.in/public/assets/img/meta_fb.png"></a>
+                        <a class="hvr-hang" target="_blank" href="https://twitter.com/mnreindia"><img src="https://biogas.mnre.gov.in/public/assets/img/twitter.png"></a>
+                        <a class="hvr-hang" target="_blank" href="https://www.linkedin.com/company/ministry-of-new-and-renewable-energy/?originalSubdomain=in"><img src="https://biogas.mnre.gov.in/public/assets/img/linkedin.png"></a>
+                        <a class="hvr-hang" target="_blank" href="https://www.youtube.com/channel/UClk55sdIRCrxHtJe17bicCg"><img src="https://biogas.mnre.gov.in/public/assets/img/youtube.png"></a>
+                    </div>
+                </div>
+
+
+            </div>
+        </section>
+        <section>
+            <nav id="stick_nav" class="navbar navbar-expand-lg  navbar-light bg-light bgWhite rounded ">
+
+                <div class="container">
+
+                    <a class="navbar-brand" href="https://biogas.mnre.gov.in"><img src="https://biogas.mnre.gov.in/public/assets/img/ALMM_logo.png"
+                    style="height: 60px;"> </a>
+                    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+                    <div class="navbar-collapse collapse  justify-content-md-end" id="navbarCollapse">
+                        <ul class="navbar-nav    mb-2 mb-md-0">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="https://biogas.mnre.gov.in"><button type="button"
+                                class="btn btn-link">HOME</button></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://biogas.mnre.gov.in/about-the-programmes"><button type="button"
+                                class="btn btn-link"> ABOUT THE
+                                PROGRAMMES</button></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://biogas.mnre.gov.in/downloads"><button type="button"
+                                class="btn btn-link">FORMS/DOWNLOADS</button></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://biogas.mnre.gov.in/help-desk"><button type="button"
+                                class="btn btn-link">HELP DESK</button></a>
+                            </li>
+                            <!-- <li class="nav-item">
+                        <a class="nav-link" href="javascript:;"><button type="button" class="btn btn-link"
+                                data-bs-toggle="modal" data-bs-target="#myModal">HELP DESK</button></a>
+                    </li> -->
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://biogas.mnre.gov.in/faqs"><button type="button"
+                                class="btn btn-link">FAQs</button></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://biogas.mnre.gov.in/feedback"><button type="button"
+                                class="btn btn-link">Feedback</button></a>
+                            </li>
+                            <li>
+                                <a class="nav-link" href="https://biogas.mnre.gov.in/user-registration"> <button type="button"
+                                class="btn btn-success">Register</button></a>
+                            </li>
+                            <li>
+                                <div class="dropdown">
+                                    <button class="btn btn-outline-success dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false" style="font-size: 16px;
+                                    padding-left: 20px;
+                                    padding-right: 20px;
+                                    font-weight: 600; margin-top:7px ">
+                                Login
+                            </button>
+                                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                                        <li><a class="dropdown-item" href="https://biogas.mnre.gov.in/log-in">BENEFICIARY</a></li>
+                                        <li><a class="dropdown-item" href="https://biogas.mnre.gov.in/login">MNRE</a></li>
+                                        <li><a class="dropdown-item" href="https://biogas.mnre.gov.in/sna-login">SNA</a></li>
+                                        <!-- <li><a class="dropdown-item" href="#">Something else here</a></li> -->
+                                    </ul>
+                                </div>
+                            </li>
+                            <!-- <li>
+                        <a class="nav-link" href="https://biogas.mnre.gov.in/login"> <button type="button"
+                                class="btn btn-outline-success"> LOGIN
+                                </button></a>
+
+                    </li> -->
+                        </ul>
+
+                    </div>
+                </div>
+            </nav>
+
+        </section>
+
+        <div class="modal" id="myModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">Help Desk for Biogas Programme ( plant size range from 1 m3 to 2500 m3 per day )</h4>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        <div class="col-md-12">
+                            <p><strong>Biogas Division : </strong></p>
+                            <table class="table table-bordered">
+
+                                <tbody>
+                                    <tr>
+                                        <td colspan="2"><strong>Biogas Division, <br>Ministry of New and Renewable Energy,<br>    Atal Akshay Urja Bhawan, Opp. CGO <br>  Complex, Lodhi Road, New Delhi-110003  <br>
+MNRE  Email for Biogas: biogas.mnre@gov.in </strong>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Sh. S. R. Meena,<br> Scientist D,  604,<br>
+Email: meena.sr@nic.in <br>  Ph:  +91 96543 92685  </strong>
+                                        </td>
+                                        <td><strong>Sh. Pabitra Mohan Barik,<br> Scientist C <br>
+Email: pabitra.mnre@gov.in <br>   Ph:  +91 82859 81831</strong>
+                                        </td>
+
+                                    </tr>
+
+                                </tbody>
+                            </table>
+
+                        </div>
+                    </div>
+
+                    <!-- Modal footer -->
+                    <!-- <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+            </div> -->
+
+                </div>
+            </div>
+        </div>
+
+
+        <!-- <nav id="homenav" class="navbar navbar-mnre navbar-fixed-top navbar-expand-lg navbar-light bg-light header">
+    <div class="container-fluid pl-0">
+        <div class="navbar-header col-md-4 col-sm-6 col-xs-6">
+            <a class="navbar-brand" target="_blank" href="https://mnre.gov.in">
+                <img class="ind_tri_color" src="https://biogas.mnre.gov.in/public/images/tri_color_side.jpg">
+                <div class="home-logo-holder">
+                    <img src="https://biogas.mnre.gov.in/public/images/logo.png">
+                </div>
+            </a>
+        </div>
+        <ul class="nav navbar-nav collapse navbar-collapse">
+            <li class="active"><a href="https://biogas.mnre.gov.in">HOME</a>
+            </li>
+            <li class=""><a
+                    href="https://biogas.mnre.gov.in/about-the-programmes">ABOUT THE PROGRAMMES</a></li>
+            <li class=""><a
+                    href="https://biogas.mnre.gov.in/downloads">FORMS/DOWNLOADS</a></li>
+            <li class=""><a
+                    href="https://biogas.mnre.gov.in/solarProjectData">Solar Project Entry</a></li>
+            <li class=""><a
+                    href="https://biogas.mnre.gov.in/developerData">Developer Entry</a></li>
+            <li><a data-toggle="modal" data-target="#helpDeskModal" href="#">HELP DESK</a></li>
+            <li class=""><a href="https://biogas.mnre.gov.in/faqs">FAQs</a>
+            </li>
+            <li class="text-left "><a
+                    href="https://biogas.mnre.gov.in/login"> LOGIN </a></li>
+        </ul>
+        <ul class="nav navbar-nav">
+            <li><a class="glyphicon glyphicon-align-right visible-xs-block" onclick='OpenMenu();'></a></li>
+        </ul>
+    </div>
+</nav>
+<div class="container-fluid mobile-menu">
+    <div class="row">
+        <div class="col-sm-12 pt-30">
+            <button onclick='CloseMenu();'>X</button>
+            <ul class="mobile-list">
+                <li><a href="https://biogas.mnre.gov.in">HOME</a></li>
+                <li><a href="https://biogas.mnre.gov.in/about-the-programmes">ABOUT THE PROGRAMMES</a></li>
+                <li><a href="https://biogas.mnre.gov.in/downloads">FORMS/DOWNLOADS</a></li>
+                <li><a href="#">HELP DESK</a></li>
+                <li class=""><a
+                        href="https://biogas.mnre.gov.in/faqs">FAQs</a></li>
+                <li><a href="https://biogas.mnre.gov.in/login"> LOGIN </a></li>
+            </ul>
+        </div>
+    </div>
+</div> -->
+        <!--Page Content Main-->
+        <section id="content">
+            <div id="loader" class="overlay" style="display:none">
+                <div class="overlay__inner">
+                    <div class="overlay__content">
+                        <span class="spinner"></span>
+                        <div class="clearfix mb-15"></div>
+                        <span class="colorWhite">Processing, Please wait</span>
+                    </div>
+                </div>
+            </div>
+            <!-- <div id="home-container" class="container-fluid">
+    <div id="home-msg" class="col-sm-8 col-sm-offset-2">
+        <h2 class="fs38 title">Welcome to Biogas Application Portal</h2>
+        <div class="mt-70"><a href="https://biogas.mnre.gov.in/consumer-interest-form" class="btn btn-default btn-interest">REGISTER
+                YOUR INTEREST</a></div>
+    </div>
+</div> -->
+            <section class="login_bg_image almm_home_section1">
+                <div class="container">
+                    <div class="row animatedParent">
+                        <div class="col-md-12 animated fadeInDownShort go">
+
+                            <h1>
+                                Welcome <br> to <span style="font-weight:700; color: #759d01;">Biogas <br>Application
+                        <br>Portal</span></h1>
+                            <!-- <a href="https://biogas.mnre.gov.in/consumer-interest-form" class="btn btn-success btn-lg">REGISTER YOUR INTREST</a> -->
+                            <!-- <button type="button" class="btn btn-success btn-lg">REGISTER YOUR INTREST</button> -->
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+
+
+            <section class="almm_home_section6 pt-5">
+                <div class="container pt-3 pb-5">
+                    <div class="row animatedParent">
+                        <div class="col-md-12 text-center animated bounceIn go">
+                            <div class="comn_heading ">
+                                <i class="fa-solid fa-minus"></i> How It All Started
+
+                            </div>
+                            <h2 class="pt-3 pb-5">IT`S ALL ABOUT BIO ENERGY</h2>
+                        </div>
+                    </div>
+                    <div class="row pt-3">
+
+                        <div class="col-md-12 img-fluid right_blk">
+                            <div class="row">
+                                <section class="customer-logos slider">
+                                    <div class="slide"><img src="https://biogas.mnre.gov.in/public/assets/img/plant1.jpg"></div>
+                                    <div class="slide"><img src="https://biogas.mnre.gov.in/public/assets/img/plant2.jpg"></div>
+                                    <div class="slide"><img src="https://biogas.mnre.gov.in/public/assets/img/plant3.jpg"></div>
+                                    <div class="slide"><img src="https://biogas.mnre.gov.in/public/assets/img/plant4.jpg"></div>
+                                    <div class="slide"><img src="https://biogas.mnre.gov.in/public/assets/img/plant5.jpg"></div>
+                                    <div class="slide"><img src="https://biogas.mnre.gov.in/public/assets/img/plant6.jpg"></div>
+                                    <div class="slide"><img src="https://biogas.mnre.gov.in/public/assets/img/plant7.jpg"></div>
+
+                                </section>
+
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+            <section class="almm_home_section7">
+
+                <!-- <marquee>This is basic example of marquee</marquee> -->
+
+            </section>
+        </section>
+        <div id="helpDeskModal" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Help Desk</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="col-md-12">
+                            <p><b>Biogas Division</b></p>
+                            <p>
+                                Sh. S. R. Meena <br> Scientist D, <br>
+                                <b>Email:</b> <a class="fs14" href="mailto:meena.sr@nic.in">meena.sr@nic.in</a> <br>
+                                <b>Ph:</b> <a class="fs13" href="tel:01124360707">011-24360707; 011-24361920</a> <br>
+                                <b>Extn.</b> 1047
+                            </p>
+                        </div>
+                        <div class="clearfix"></div>
+                        <p>For details contact: <a class="fs14" href="mailto:biogas-mnre@gov.in">biogas-mnre@gov.in</a></P>
+                        <div class="clearfix"></div>
+                        <p>For further contact information <a class="fs14" href="https://biogas.mnre.gov.in/contact-us">Click here</a></P>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!--Footer of Application-->
+        <section class="bottom_footer">
+            <div class="container">
+                <div class="row pt-3 ">
+                    <div class="col-md-12">
+                        <small>Copyright @ 2023</small>
+                        <p>Portal Content Managed by Ministry of New and Renewable Energy <br>Designed, Developed and Hosted by
+                            <span>National Informatics Centre (NIC)</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+      
+    </div>
+
+
+
+
+
+
+
+    <div id="flowchat" class="flow">
+        <div class="chatbox__header">
+            <div class="chatbox__image--header">
+                <img src="./src/img/logo.png" alt="image">
+            </div>
+            <div class="chatbox__content--header">
+                <h3 class="chatbox__heading--header" id="heading">बायोगैस</h3>
+                <p class="chatbox__description--header" id="description">नवीन एवं नवीकरणीय ऊर्जा मंत्रालय (MNRE)</p>
+            </div>
+        </div>
+        
+        <div id="myForm" class="chat-popup">
+            <form action="mailTo:khanmushtfa123@gmail.com" class="form-container">
+                <h3>बायोगैस सहायता में आपका स्वागत है</h3>
+                <!-- <input type="email" placeholder="Type Email" name="msg" required=""> -->
+                <button id="btn-submit" type="submit">शुरू करें</button>
+            </form>
+        </div>
+        <div class="chatbox__footer">
+            <!-- <div class="tooltip">
+                <a  onclick="toggleLanguage()" class="tooltiptext" id="tooltipText">
+                    हिंदी में
+                </a>
+            </div> -->
+            <select id="dynamic_select" onchange="myFunction()">
+                <option value="" selected>Language</option>
+                <option value="english">English</option>
+                <option value="hindi">हिंदी में बदलें</option>
+              </select>
+              
+             <!-- <script>
+                function myFunction() {
+                    var select = document.getElementById("dynamic_select");
+                    var selectedValue = select.value;
+                  
+                    if (selectedValue === "english") {
+                      window.location.href = "index.html";
+                    } else if (selectedValue === "hindi") {
+                      window.location.href = "hindi.html";
+                    }
+                  }
+                  
+                  
+             </script> -->
+            <form id="form" method="get" accept-charset="utf-8">
+                <input type="text" name="botvalue" id="botvalue" placeholder="ऊपर दिए गए विकल्प को स्पर्श करें!" />
+                <button type="submit" class="submit ">send</button>
+            </form>
+        </div>
+    </div>
+
+
+
+    <div class="chat_icon"><img src="src/img/i4.png" alt="" id="icon" style="position:fixed;bottom:0;right:0;height: 80px; width: 80px; float:right;"></div>
+
+   
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <!-- <script src="src/flowchat.js"></script> -->
+    <script src="src/hindichat.js"></script>
+    <script src="src/flowchatui.js"></script>
+    <script>
+        $(function () {
+
+            $.getJSON("demo-data/hindi.json", function (dataJSON) {
+                $('#flowchat').flowchat({
+                    dataJSON: dataJSON,
+                    autoStart: false
+                });
+            });
+        });
+    </script>
+
+
+
+
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> -->
+      <script src="https://biogas.mnre.gov.in/public/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+      
+       <script>
+          window.onscroll = function() {
+              myFunction()
+          };
+  
+          var navbar = document.getElementById("stick_nav");
+          var sticky = navbar.offsetTop;
+  
+          function myFunction() {
+              if (window.pageYOffset >= sticky) {
+                  navbar.classList.add("sticky")
+              } else {
+                  navbar.classList.remove("sticky");
+              }
+          }
+  
+          $(document).ready(function() {
+              $('.customer-logos').slick({
+                  slidesToShow: 4,
+                  slidesToScroll: 1,
+                  autoplay: true,
+                  autoplaySpeed: 1500,
+                  arrows: false,
+                  dots: false,
+                  pauseOnHover: false,
+                  responsive: [{
+                      breakpoint: 1024,
+                      settings: {
+                          slidesToShow: 3
+                      }
+                  }, {
+                      breakpoint: 760,
+                      settings: {
+                          slidesToShow: 2
+                      }
+                  }, {
+                      breakpoint: 520,
+                      settings: {
+                          slidesToShow: 1
+                      }
+                  }]
+              });
+          });
+      </script>
+      <script type="text/javascript">
+          var baseUrl = 'https://biogas.mnre.gov.in';
+          var validator = '';
+      </script>
+      <script src="https://biogas.mnre.gov.in/public/js/common.js"></script>
+      <script>
+          function openPage(pageName, elmnt, color) {
+              var i, tabcontent, tablinks;
+              tabcontent = document.getElementsByClassName("tabcontent");
+              for (i = 0; i < tabcontent.length; i++) {
+                  tabcontent[i].style.display = "none";
+              }
+              tablinks = document.getElementsByClassName("tablink");
+              for (i = 0; i < tablinks.length; i++) {
+                  tablinks[i].style.backgroundColor = "";
+              }
+              document.getElementById(pageName).style.display = "block";
+              elmnt.style.backgroundColor = color;
+          }
+  
+          // Get the element with id="defaultOpen" and click on it
+          document.getElementById("defaultOpen").click();
+      </script>
+  
+  
+<script src="script.js"></script>
+</body>
+
+</html>
+
+

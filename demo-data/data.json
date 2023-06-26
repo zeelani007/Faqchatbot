@@ -1,0 +1,812 @@
+[{
+    "id": 1,
+    "text": "Hello! How can I assist you today?",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 4,
+    "option1": "",
+    "option1_nextMessageId": "",
+    "option2": "",
+    "option2_nextMessageId": "",
+    "option3": "",
+    "option3_nextMessageId": "",
+    "option4": "",
+    "option4_nextMessageId": "",
+    "option5": "",
+    "option5_nextMessageId": "",
+    "option6": "",
+    "option6_nextMessageId": ""
+  },
+  {
+    "id": 2,
+    "text": "",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 3,
+    "option1": "",
+    "option1_nextMessageId": "",
+    "option2": "",
+    "option2_nextMessageId": "",
+    "option3": "",
+    "option3_nextMessageId": "",
+    "option4": "",
+    "option4_nextMessageId": "",
+    "option5": "",
+    "option5_nextMessageId": "",
+    "option6": "",
+    "option6_nextMessageId": ""
+  },
+  {
+    "id": 3,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "Yes",
+    "option1_nextMessageId": 4,
+    "option2": "No",
+    "option2_nextMessageId": 30,
+    "option3": "",
+    "option3_nextMessageId": "",
+    "option4": "",
+    "option4_nextMessageId": "",
+    "option5": "",
+    "option5_nextMessageId": "",
+    "option6": "",
+    "option6_nextMessageId": ""
+  },
+  {
+    "id": 4,
+    "text": "please choose from following options",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "Farmer",
+    "option1_nextMessageId": 5,
+    "option2": "Project developer",
+    "option2_nextMessageId": 8,
+    "option3": "State nodal agency",
+    "option3_nextMessageId": 81,
+    "option4": "Stakeholder category",
+    "option4_nextMessageId": 10
+  },
+  {
+    "id": 61,
+    "text": "FAQs for Farmers under Biomass Programme",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "What is biogas?",
+    "option1_nextMessageId": 6,
+    "option2": "BIOMASS",
+    "option2_nextMessageId": 7
+  },
+  {
+    "id": 5,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "What is biogas?",
+    "option1_nextMessageId": 51,
+    "option2": "What is compressed biogas?",
+    "option2_nextMessageId": 52,
+    "option3": "What is biomass pellet / briquette?",
+    "option3_nextMessageId": 53,
+    "option4": "What is non-bagasse cogeneration?",
+    "option4_nextMessageId": 54,
+    "option5": "What includes waste to energy?",
+    "option5_nextMessageId": 55,
+    "option6": "What is the benefit to a farmer for setting up a biogas plant?",
+    "option6_nextMessageId": 56,
+    "option7": "Do you want to know about the subsidy available for setting up the biogas plant?",
+    "option7_nextMessageId": 57,
+    "option8": "What is the eligibility criteria for availing subsidy?",
+    "option8_nextMessageId": 58,
+    "option9": "Do you want to know about the process of obtaining subsidy?",
+    "option9_nextMessageId": 59
+  },
+  {
+    "id": 57,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "YES",
+    "option1_nextMessageId": 101,
+    "option2": "NO",
+    "option2_nextMessageId": 102
+  
+  },
+  {
+    "id": 101,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "a.For small biogas plants (1-25 cubic meter/day plant capacity): Rs. 9800/- to Rs. 70,400/- per plant based on size of the plant in cubic meter;<br> b.For Power generation and thermal application (25 - 2500 cubic meter/day plant capacity): Rs. 35,000/- to Rs. 45,000/- per kilowatt for power generation and Rs. 17,500/- to Rs. 22,500/- per kilowatt equivalent for thermal applications ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 102,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "It is a process of biological decomposition of organic materials like cow dung, poultry droppings etc. in the absence of oxygen. It is also called as anaerobic digestion.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 51,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "It is a process of biological decomposition of organic materials like cow dung, poultry droppings etc. in the absence of oxygen. It is also called as anaerobic digestion.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 52,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Compressed biogas (CBG), also known as biomethane or renewable natural gas (RNG), is a type of biogas that has been purified and compressed for use as a fuel. Biogas is produced through the anaerobic digestion or fermentation of organic matter such as agricultural waste, food waste, sewage, or dedicated energy crops.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  }, {
+    "id": 53,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Biomass pellets and briquettes are densified forms of biomass that are commonly used as solid biofuels. They are produced by compressing or compacting biomass materials, such as agricultural residues, wood waste, energy crops, and organic waste.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  }, {
+    "id": 54,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Non-bagasse cogeneration refers to the production of electricity and heat using biomass fuels other than bagasse. Bagasse is a fibrous residue left over after the extraction of juice from sugarcane, and it is a commonly used biomass fuel in cogeneration systems in the sugar industry.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  }, {
+    "id": 55,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Waste-to-energy (WtE) refers to the process of generating energy, typically in the form of electricity and heat, by treating and utilizing various types of waste materials. It involves converting waste into a useful energy resource, reducing the volume of waste and recovering energy that would otherwise be lost. The waste materials commonly used in waste-to-energy processes include:",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  }, {
+    "id": 56,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "a.The Ministry of New and Renewable Energy, Government of India, launched the Biogas programme with the following objectives: i.Setting up of biogas plants for clean cooking fuel, lighting, meeting thermal and small power needs of farmers which results in GHG reduction, improved sanitation, women empowerment and creation of rural employment. ii.Organic enriched Bio-manure: The digested slurry from biogas plants, a rich source of manure, shall benefit farmers in supplementing / reducing of use of chemical fertilizers.",
+    "nextMessageId": 20,
+    "option1": "YES",
+    "option1_nextMessageId": 1010,
+    "option2": "NO",
+    "option2_nextMessageId": 1020
+  
+  },
+  
+  {
+    "id": 58,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "a.Beneficiary should have their own land/ space about 50-60 Square meter area for installing small biogas plant ( 1 to 25 m3) <br> b.Availability of cow dung/ feedstock’s & regular water supply <br> c.Financial capacity for investing their own share money for biogas",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 102,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The biogas user should ensure that the plant is filled before he/she starts using the gas and Bio-slurry should overflow from the expansion chamber through the slurry canal The very first gas produced should be vented unused from the water drain valve When the biogas plant is in use, feeding should be done on daily basis The biogas user should always endeavor to keep the area around the biogas system clean.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  
+  {
+    "id": 59,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Click on the link to know more:<br> https://biogas.mnre.gov.in/downloads ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  }, {
+    "id": 60,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Flow back of fire might be possible. In order to stop accidental flow back of fire from burner to gas holder, a flame arrester must be incorporated in the pipe line as a safety device.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  }, {
+    "id": 61,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Fire arrester is placed just after the main gas valve near the digester or just before the gas stove. It is safer to have one at both place.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 20,
+    "text": "Do you wish to continue?",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "Yes",
+    "option1_nextMessageId": 4,
+    "option2": "No",
+    "option2_nextMessageId": 30,
+    "option3": "",
+    "option3_nextMessageId": ""
+  },
+  {
+    "id": 7,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "What is the significance of Biomass Programme for farmers under National Bioenergy Programme?",
+    "option1_nextMessageId": 71,
+    "option2": "What kind of raw materials are supported under Biomass programme?",
+    "option2_nextMessageId": 72,
+    "option3": "What feedstock is excluded for availing CFA under Biomass programme?",
+    "option3_nextMessageId": 73,
+    "option4": "Where can a farmer submit the proposal for availing CFA under Biomass Programme?",
+    "option4_nextMessageId": 74
+  
+  },
+  {
+    "id": 8,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "FAQs for Project Developers under Biogas Programme",
+    "option1_nextMessageId": 91,
+    "option2": "FAQs for Project Developers under Biomass Programme",
+    "option2_nextMessageId": 92,
+    "option3": "FAQs for Project Developers under Waste to Energy Programme",
+    "option3_nextMessageId": 93
+  },
+  {
+    "id": 91,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "What is the significance of Biogas scheme for project developers under National Bioenergy Programme?",
+    "option1_nextMessageId": 911,
+    "option2": "Where can the proposal for availing CFA under Biogas Programme be submitted?",
+    "option2_nextMessageId": 912,
+    "option3": "What is the project approval mechanism under the Biogas Programme?",
+    "option3_nextMessageId": 913,
+    "option4": "What are the process conditions for producing biogas?",
+    "option4_nextMessageId": 914,
+    "option5": "How electricity could be produced by using biogas?",
+    "option5_nextMessageId": 915,
+    "option6": "What are the key components of a biogas plant?",
+    "option6_nextMessageId": 916,
+    "option7": "Are there any criteria for selection of best site for installation of biogas plant?",
+    "option7_nextMessageId": 917,
+    "option8": "What are the materials required for construction of a biogas plant?",
+    "option8_nextMessageId": 918,
+    "option9": "What are the components in biogas distribution pipeline?",
+    "option9_nextMessageId": 919,
+    "option10": "Biogas production from both traditional and newly pre-fabricated type biogas plants are same. Which should be preferred and why?",
+    "option10_nextMessageId": 920,
+    "option11": "Is it possible to construct a biogas plant on hilly region?",
+    "option11_nextMessageId": 921,
+    "option12": "In the winter season, with a drop in temperature, production of biogas also drops. In such situation what would a developer do for optimum production?",
+    "option12_nextMessageId": 922,
+    "option13": "What is the process for claiming CFA on biogas plant?",
+    "option13_nextMessageId": 923,
+    "option14": "What would be the appropriate size of pipe in biogas distribution line?",
+    "option14_nextMessageId": 924,
+    "option15": "Is there any role of earthing condition in laying foundation for biogas plant?",
+    "option15_nextMessageId": 925
+  },
+  {
+    "id": 911,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The significance of the Biogas Programme with respect to project developers is stated below: <br>“Setting up of biogas plants for clean cooking fuel, lighting, meeting thermal and small power needs of users which results in GHG reduction, improved sanitation, women empowerment and creation of rural employment”.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 912,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "i.  For Small Biogas Plants (1 M3 to 25 M3): The individual beneficiary can submit their application with requisite details for installation of biogas plants through MNRE biogas web portal/android mobile app. The PIA will process such applications only after allocation of targets and then take action for the installation of biogas plants at the beneficiary site. <br> ii. For Medium Size Biogas Plants (above 25 M3 to 2500 M3): The proposals for such projects shall be submitted by the PIAs to MNRE round the year through MNRE Biogas web-portal.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 913,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "MNRE will allocate the annual physical targets for setting up of biogas plants (size ranging from 1 M3 to 25 M3 to the designated PIAs and each biogas plant (above 25 M3 to 2500 M3 biogas) proposal will be examined by the MNRE <br> on case-to-case basis and an Administrative Sanction / in-principle approval shall be issued.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 914,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Biogas production is obtained by anaerobic decomposition (absence of oxygen) of biomass in the presence of bacteria. The bacterial decomposition of biomass takes place in three phases, namely hydrolysis phase, acid phase and methane phase.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 915,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Biogas operated gensets are available for generation of electricity. One cubic meter biogas can produce 4-5 kWh electricity depends on efficiency of genset and average methane content in raw biogas",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 916,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "A biogas plant consists of the following parts <br> • <strong>Mixing tank and inlet: </strong> Preparation and introduction of feed stock into the digester. <br> <strong>• Digester:</strong> Processing of the raw materials <br> <strong>•Gas holder or gas storage dome:</strong> Storage and removal of biogas and by-products from the system </br>•Outlet and compost pit <br>•Gas main outlet valve, pipeline, gas stove.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 917,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Yes, following criteria should be considered while choosing the ideal location for a biogas plant, but they should not be limited to the ones mentioned below:- <br> •It should be near to cattle shed to minimize the distance for carrying cattle dung.<br>•There should be enough space for storage of digested slurry or construction of compost pit.<br>•It should be 10-15 meters away from any drinking water well to prevent contamination of water.<br> •The area should be free from roots of tree which are likely to creep into the digester and cause damage.<br> •It should be opened to receive the sun radiation for most part of the day to keep the digester warm.<br> •It should be on an elevated area so that plant does not get submerged during normal rains.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 918,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Bricks, cement, sand, concrete, is required for construction of a biogas plant. PVC or asbestos pipe is used for inlet and outlet as required. For KVIC biogas plant, additional GI sheets are needed for fabrication of gas holder. Recently, HDPI material based readymade biogas products are available in market. They could be used for bio methanation.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 919,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The gas distribution pipeline includes the gas vent pipe, gate valve, hose pipe, moisture trap, pipe, bends, joints, stop cock, pressure tube clips etc.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 920,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Life of brick masonry constructed biogas plants are around 20 years while life of prefabricated biogas plants are 10 years only. But the prefabricated biogas plants can be shifted as per the requirement. According to suitable condition, beneficiary can make his choice. ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 921,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Yes. However, in the hilly region, there are two major issues:•Loss in temperature from digester during night which downs the rate of gas production. •Digging of pit for deep construction due to stones.In such situation, KVIC biogas plants (Floating dome type ) are not suitable for optimum production. Fixed dome biogas plants could be functioning well. Deenbandhu biogas plant (Fixed dome type ) would be economically better due to its less excavation work. ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 922,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Warm water from solar water heaters can be used for dilution of dung. •Diluted dung slurry can be prepared in the mixing tank and kept all day to warm up. Then the digester may be loaded in the evening.•Addition of organic matter containing high percentage of nitrogen like urine, nightsoil etc. •The gas holder should be covered with plastic sheets in day so the digester temperature can be increased. During night time, the same will be covered with gunny bags that remains insulated and heat loss can be minimized. •The digester should be recycled along with fresh slurry in order to increase the bacterial population in the digester.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 923,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "• Firstly, the developer intimates the respective State Nodal Agency for construction of biogas plant.•Technical staff from SNA once verifies the biogas plant constructional site, then he/she can construct biogas and claim for subsidy•Beneficiary may be male or female, businessman or serviceman, private employee or Govt. employee or student. •It should be ensured that user has a bank account and an identity proof. •If user belongs to SC and ST category, must have caste certificate to avail the additional grant.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },{
+    "id": 924,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The size of the pipe depends upon the distance between the plant and the kitchen. The greater the distance, the larger should be the diameter of the pipe. With the pressure of approximately 8 cm water column, one cubic meter biogas can be transported in one hour in a 12mm pipe over about 20m, in a 19mm pipe over about 150m and in a 25mm pipe over 500m. ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 925,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "•Yes,if the earth is sandy, hard brick ballast is laid by an ordinary procedure using cement, sand and brick ballast (1:4:8) or cement, sand and gravel mortar (1:2:4) without reinforced.•If during wet earth is observed, there is a possibility of water seepage through the ordinary laid foundation in rainy season. Therefore, under these circumstances, a 75 mm thick layer of dry brick ballast (without cement) is spread and is well compacted.•Above this a 150 mm thick layer of cement, sand and brick ballast at a ratio of 1:4:8 is laid. In this layer a net of steel rods of 15 mm diameter (tied by binding wire) bound at a distance of 10.5cm each is also used as reinforcement.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 92,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "How much Central Financial Assistance (CFA) is available under Biomass Programme?",
+    "option1_nextMessageId": 931,
+    "option2": "What is the eligibility criteria for companies to avail financial assistance under Biomass programme?",
+    "option2_nextMessageId": 932,
+    "option3": "Where can the proposal for availing CFA under Biomass Programme be submitted?",
+    "option3_nextMessageId": 933,
+    "option4": "What stage-I documents are required while submitting the proposal for Briquette/Pellet Manufacturing Plants and Biomass (Non-Bagasse) Cogeneration Projects?",
+    "option4_nextMessageId": 934,
+    "option5": "What is the last date of submitting the application form for availing CFA under Biomass programme?",
+    "option5_nextMessageId": 935,
+    "option6": "What is the timeline for commissioning of Briquette/Pellet Manufacturing Plants and Biomass (Non-Bagasse) Cogeneration Projects for availing CFA?",
+    "option6_nextMessageId": 936,
+    "option7": "Are self-funded projects eligible to avail financial assistance under Biomass programme?",
+    "option8_nextMessageId": 937,
+    "option9": "Are capacity enhancement projects eligible to avail financial assistance under Biomass programme?",
+    "option9_nextMessageId": 938,
+    "option10": "What type of proposals are likely to get rejected for the grant of CFA?",
+    "option10_nextMessageId": 939,
+    "option11": "What are the conditions for full release of CFA for a biomass project developer?",
+    "option11_nextMessageId": 940,
+    "option12": "What will be CFA provided to biomass project developers if capacity utilization factor, CUF is <70%?",
+    "option12_nextMessageId": 941,
+    "option13": "What will be CFA provided to biomass project developers if plant load factor, PLF is <80%?",
+    "option13_nextMessageId": 942,
+    "option14": "How is CFA disbursed for self-financed projects?",
+    "option14_nextMessageId": 943,
+    "option15": "How is CFA released for FI/Bank financed projects?",
+    "option15_nextMessageId": 944
+  },
+  {
+    "id": 931,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "1)Briquette /Pellet Manufacturing plants - Rs. 9 Lakh per MTPH (metric ton/hour) manufacturing capacity (maximum CFA of Rs. 45 Lakhs per plant) <br>2)Biomass (Non-bagasse) cogeneration projects - Rs. 40 Lakhs/MW (on Installed Capacity)(maximum CFA of Rs. 5 Crores per project).",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 932,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "For a company to be eligible to avail financial assistance under Biomass programme, it must be registered under companies act, other than businesses, programme partnership firms, proprietorship firms, cooperatives, public sector companies, government owned firms are eligible to avail financial support under the programme.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 933,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The proposal for availing CFA shall be submitted through BioUrja Portal (link: https://biourja.mnre.gov.in/step-to-avail-cfa)",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 934,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The stage-1 documents to be submitted along with proposal are listed in Annexure-1 of Guidelines for implementation of Biomass Programme (link: https://mnre.gov.in/Bio%20Energy/policy-and-guidelines)",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 935,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The last date for submitting the applications is before commission of plant or 31.12.2025 whichever is earlier.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 936,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Briquette / Pellet Manufacturing plants shall be commissioned within 12 months and Biomass (non-bagasse) cogeneration plants within 24 months from the date of “In-Principle” approval.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 937,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Yes, self-funded projects are eligible to avail financial assistance under Biomass programme",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 938,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Yes, capacity enhancement projects, which install new machinery e.g. Briquette/Pellet making machinery, boiler, turbine, are eligible under the scheme for grant of CFA.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 939,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Incomplete proposals in any form and without requisite approvals/documents shall not be considered for grant of CFA. The rejection of such proposals shall be intimated to the project developers preferably within 60 days of submission of the proposal in the BioUrja Portal. However, fresh proposals doing away with all shortcomings may be resubmitted before commissioning of the plant or 31.12.2025 whichever is earlier.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 940,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The following conditions should be met with for the full release of CFA for biomass projects.<br> a) Operation of the plant at an average of 80% of rated capacity measured over a period of three consecutive days (taking average16 Hrs per day as standard operating hours), and <br> b) Operation of the plant at an average of 70% of rated capacity measured over a period of three consecutive months (taking average 16 Hrs per day as standard operating hours).",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 941,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "In case the plant is operating at CUF<70%,following graded structure based on average capacity utilization factor over a period ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 942,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "In case the plant is operating at PLF<80%, following graded structure based on average plant load factor over a period of three months shall be used.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 943,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "For Self-financed projects or projects wherein loan drawn by the developer for the project is less than the eligible CFA, the CFA shall be released to developer’s account.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 944,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "If loan is drawn by the developer is equal to or more than from eligible CFA, CFA shall be released to the developer’s term loan account maintained in the lending FIs/banks to off-set/reduce the loan by an equivalent amount. In case of complete repayment of loan by the developer before release of CFA, the CFA may be released to developer’s account, which may be other than the term loan account, on recommendation from FI/Bank.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },
+  {
+    "id": 93,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "What is the significance of Biomass Programme for farmers under National Bioenergy Programme?",
+    "option1_nextMessageId": 951,
+    "option2": "What kind of raw materials are supported under Biomass programme?",
+    "option2_nextMessageId": 952,
+    "option3": "What feedstock is excluded for availing CFA under Biomass programme?",
+    "option3_nextMessageId": 953,
+    "option4": "Where can a farmer submit the proposal for availing CFA under Biomass Programme?",
+    "option4_nextMessageId": 954
+  },
+  {
+    "id": 951,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Reduced stubble burning by utilizing surplus agricultural residue could provide additional source of income to farmers through sale of surplus agro residue and could enable better environmental practices and reduce pollution.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 952,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The programme shall provide CFA for projects utilizing biomass such as but not limited to:<br> i) Crop residues such as paddy straw, wheat straw, mustard stalks, cotton stalks etc. <br> ii) Wood produced through energy plantations such as prosopis Juliflora etc. <br> iii) Weeds, palm leaves, coconut shells & husk etc. <br> iv) Wood waste produced in industrial operations such as saw dust, off cuts, bark etc. <br> v) Agro-based industrial residue such as rice husk, barley husk, etc. <br> vi) Forest residues such as pine needles, branches & stems of trees etc. ",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 953,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "Projects utilizing bagasse, municipal solid waste, black liquor, slop, press mud and other processed industrial waste shall not be considered for CFA under Biomass programme.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  
+  },{
+    "id": 954,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The proposal for availing CFA shall be submitted through BioUrja Portal (link: https://biourja.mnre.gov.in/step-to-avail-cfa)",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 81,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "What should be the implementation model to received Central Financial Assistance (CFA) under Biogas Programme?",
+    "option1_nextMessageId": 811,
+    "option2": "What mechanism shall be adopted for monitoring project implementation progress?",
+    "option2_nextMessageId": 812,
+    "option3": "Who are the designated performance inspection agencies for Biomass projects?",
+    "option3_nextMessageId": 813,
+    "option4": "How is CFA in the form of service charge disbursed to implementing and inspection agencies?",
+    "option4_nextMessageId": 814
+  },
+  {
+    "id": 811,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "i.<strong>Implementation through State PIAs: </strong>The biogas programme will be implemented by the designated Programme Implementing Agency (PIA) of the State/ Union Territory I Khadi Village and Industry Commission (KVIC), Mumbai, National Dairy Development Board (NDDB) Anand / Biogas Development and Training Centres(BDTC). <br> ii. <strong>Implementation through Financial Institutions: </strong>Financing Organizations/ Institutions / Banks/ Indian Renewable Energy Development Agency (IREDA), NABARD/ RBI approved Financial Institutions may also implement the Biogas Programme in consultation with PIAs.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 812,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "SCADA System/Remote monitoring system will be used to supervise implementation progress. It will be installed at the project sites for sharing plant generation data to MNRE or any other designated agency.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },{
+    "id": 813,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The inspection agencies for Biomass projects are mentioned below. <br> 1)For Briquette/Pellet Manufacturing Plants: <br> a.Concerned State Nodal Agencies for Renewable Energy (SNAs); or <br> b.Sardar Swaran Singh National Institute of Bio-Energy (SSS-NIBE) <br> 2) For Biomass (non-bagasse) cogeneration projects: Concerned State Nodal Agency (SNA) and Sardar Swaran Singh National Institute of BioEnergy (SSS-NIBE).",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },{
+    "id": 814,
+    "text": "FAQs for Project Developers under Biogas Programme",
+    "messageType": "",
+    "imageUrl": "The service charge to inspection agencies and implementing agency shall be released in the bank account of the agency.",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 9,
+    "text": "",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": ""
+  },
+  {
+    "id": 10,
+    "text": "",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": "",
+    "option2": "",
+    "option2_nextMessageId": ""
+  },
+  {
+    "id": 11,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId":"",
+    "option1": "",
+    "option1_nextMessageId": 12,
+    "option2": "",
+    "option2_nextMessageId": 13,
+    "option3": "",
+    "option3_nextMessageId": 14,
+    "option4": "",
+    "option4_nextMessageId": "",
+    "option5": "",
+    "option5_nextMessageId": ""
+  },
+  
+  
+  {
+    "id": 14,
+    "text": "",
+    "messageType": "Question",
+    "imageUrl": "",
+    "nextMessageId": "",
+    "option1": "",
+    "option1_nextMessageId": 15,
+    "option2": "",
+    "option2_nextMessageId": 15,
+    "option3": "",
+    "option3_nextMessageId": 15,
+    "option4": "",
+    "option4_nextMessageId": 15
+  },
+  {
+    "id": 15,
+    "text": "",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 20,
+    "option1": "",
+    "option1_nextMessageId": "",
+    "option2": "",
+    "option2_nextMessageId": ""
+  },
+  {
+    "id": 30,
+    "text": "Thank your for visiting us.",
+    "messageType": "Text",
+    "imageUrl": "",
+    "nextMessageId": 0,
+    "option1": "",
+    "option1_nextMessageId": "",
+    "option2": "",
+    "option2_nextMessageId": ""
+  }
+  ]

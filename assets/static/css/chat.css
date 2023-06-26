@@ -1,0 +1,219 @@
+
+.chat-bar-collapsible {
+    position: fixed;
+    bottom: 0;
+    right: 50px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.collapsible {
+    display: flex;
+    background: linear-gradient(90deg, rgba(207,128,17,0.927608543417367) 34%, rgba(9,121,29,0.927608543417367) 65%);
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+    padding: 8px;
+    width: 300px;
+    text-align: left;
+    outline: none;
+    font-size: 17px;
+    border-radius: 10px 10px 0px 0px;
+    border: 3px solid white;
+    border-bottom: none;
+}
+.user{
+    height: 40px;
+    width: 92px;
+}
+.content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #777777;
+}
+
+.full-chat-block {
+    width: 300px;
+    background: rgb(251, 255, 251);
+    text-align: center;
+    overflow: auto;
+    scrollbar-width: none;
+    height: max-content;
+    transition: max-height 0.2s ease-out;
+}
+
+.outer-container {
+    min-height: 500px;
+    bottom: 0%;
+    position: relative;
+}
+
+.chat-container {
+    max-height: 500px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    scroll-behavior: smooth;
+    hyphens: auto;
+}
+
+.chat-container::-webkit-scrollbar {
+    display: none;
+}
+
+.chat-bar-input-block {
+    z-index: 999;
+    display: flex;
+    float: left;
+    box-sizing: border-box;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;  
+    background: linear-gradient(90deg, rgba(207,128,17,0.927608543417367) 34%, rgba(9,121,29,0.927608543417367) 65%);
+    color: rgb(0, 0, 0);
+    padding: 10px 0px 10px 10px;
+}
+
+.chat-bar-icons {
+    display: flex;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    width: 25%;
+    float: right;
+    font-size: 20px;
+}
+
+#chat-icon:hover {
+    opacity: .7;
+}
+
+/* Chat bubbles */
+
+#userInput {
+    width: 90%;
+}
+
+.input-box {
+    float: left;
+    border: none;
+    box-sizing: border-box;
+    width: 106%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 16px;
+    color: #000;
+    background-color: rgb(230, 230, 230);
+    outline: none
+}
+
+.userText {
+    color: white;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: right;
+    clear: both;
+}
+
+.userText span {
+    line-height: 1.5em;
+    display: inline-block;
+    background: #55a1ff;
+    padding: 10px;
+    border-radius: 8px;
+    border-bottom-right-radius: 2px;
+    max-width: 80%;
+    margin-right: 10px;
+    animation: floatup .5s forwards
+}
+
+.botText {
+    color: #000;
+    font-family: Helvetica;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: left;
+}
+
+.botText span {
+    line-height: 1.5em;
+    display: inline-block;
+    background: #e0e0e0;
+    padding: 10px;
+    border-radius: 8px;
+    border-bottom-left-radius: 2px;
+    max-width: 80%;
+    margin-left: 10px;
+    animation: floatup .5s forwards
+}
+
+@keyframes floatup {
+    from {
+        transform: translateY(14px);
+        opacity: .0;
+    }
+    to {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .full-chat-block {
+        width: 100%;
+        border-radius: 0px;
+    }
+    .chat-bar-collapsible {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+    }
+    .collapsible {
+        width: 100%;
+        border: 0px;
+        border-top: 3px solid white;
+        border-radius: 0px;
+    }
+}
+/* tooltip */
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 110%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 30%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
